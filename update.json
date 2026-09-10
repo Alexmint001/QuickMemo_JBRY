@@ -1,7 +1,7 @@
 {
-    "version":  "7.1",
-    "installer_url":  "https://github.com/Alexmint001/QuickMemo_JBRY/releases/download/v7.1/QuickMemo_Setup_7.1.exe",
-    "sha256":  "8a96f53d568cbf8c588e290970997334281d1c32b6dc9e74dc9ed8c5a65b1b58",
-    "notes":  "QuickMemo v7.1",
+    "version":  "7.2",
+    "installer_url":  "https://github.com/Alexmint001/QuickMemo_JBRY/releases/download/v7.2/QuickMemo_Setup_7.2.exe",
+    "sha256":  "1508a0d211a044d23388e206f766b3022bb82932f0069e8877ac5bcd76f69641",
+    "notes":  "QuickMemo v7.2",
     "mandatory":  false
 }
