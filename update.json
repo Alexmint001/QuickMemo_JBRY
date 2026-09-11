@@ -1,7 +1,7 @@
 {
     "version":  "8.1",
     "installer_url":  "https://github.com/Alexmint001/QuickMemo_JBRY/releases/download/v8.1/MKMemo_Setup_8.1.exe",
-    "sha256":  "abd24473d379605497ed1f5a449e357d9221699f8a76cf779711415bc3ba3c83",
+    "sha256":  "df003702b8c2bafe4bfbb375f25ba9881b91949837d817d7ff6459d766f80200",
     "notes":  "MKMemo v8.1",
     "mandatory":  false
 }
